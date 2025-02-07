@@ -26,7 +26,7 @@ spec:
         - name: NEXT_PUBLIC_ENVIRONMENT
           value: "homolog"
         - name: NEXT_PUBLIC_API_URL
-          value: "google.com.br"
+          value: "https://google.com.br"
 ---
 apiVersion: v1
 kind: Service
